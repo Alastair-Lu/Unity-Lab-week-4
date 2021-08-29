@@ -167,8 +167,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b70bdf04e7249544853c137accd6b52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  studentNumber: 0
-  bandReached: 0
+  studentNumber: 14259838
+  bandReached: 3
 --- !u!1 &662486075
 GameObject:
   m_ObjectHideFlags: 0
